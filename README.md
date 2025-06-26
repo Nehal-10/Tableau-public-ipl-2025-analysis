@@ -11,7 +11,7 @@ Dataset Link: https://www.kaggle.com/datasets/krishd123/ipl-2025-records
 
 Dimensions:
 From deliveries.csv:
-•	match_no – Unique number identifying each match
+1. match_no – Unique number identifying each match
 •	date – Date of the match
 •	stage – Stage of the tournament (e.g., League, Playoffs)
 •	venue – Stadium where the match was played
