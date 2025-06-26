@@ -12,50 +12,50 @@ Dataset Link: https://www.kaggle.com/datasets/krishd123/ipl-2025-records
 Dimensions:
 From deliveries.csv:
 1. match_no – Unique number identifying each match
-•	date – Date of the match
-•	stage – Stage of the tournament (e.g., League, Playoffs)
-•	venue – Stadium where the match was played
-•	innings – Innings number (1 or 2)
-•	over – Over number within an innings
-•	batting_team – Team currently batting
-•	bowling_team – Team currently bowling
-•	striker – Batsman facing the delivery
-•	bowler – Bowler delivering the ball
-•	fielder – Fielder involved in dismissal (if any)
-•	player_dismissed – Player who got out
-•	wicket_type – Type of dismissal (e.g., caught, bowled)
+2. date – Date of the match
+3.	stage – Stage of the tournament (e.g., League, Playoffs)
+4.	venue – Stadium where the match was played
+5.	innings – Innings number (1 or 2)
+6. over – Over number within an innings
+7.	batting_team – Team currently batting
+8.	bowling_team – Team currently bowling
+9.	striker – Batsman facing the delivery
+10.	bowler – Bowler delivering the ball
+11.	fielder – Fielder involved in dismissal (if any)
+12.	player_dismissed – Player who got out
+13.	wicket_type – Type of dismissal (e.g., caught, bowled)
 From matches.csv:
-•	match_id – Unique number identifying each match
-•	date – Date of the match
-•	venue – Stadium where the match was played
-•	team1 – First team in the match
-•	team2 – Second team in the match
-•	stage – Stage of the tournament
-•	toss_winner – Team that won the toss
-•	toss_decision – Decision made after the toss (bat or bowl)
-•	match_result – Result status of the match (completed, tie, etc.)
-•	match_winner – Team that won the match
-•	player_of_the_match – Awarded best player of the match
-•	top_scorer – Highest run-scorer in the match
-•	best_bowling – Player with the best bowling performance
-•	best_bowling_figure – Bowling stats (e.g., 3–29)
+1.	match_id – Unique number identifying each match
+2.	date – Date of the match
+3.	venue – Stadium where the match was played
+4.	team1 – First team in the match
+5.	team2 – Second team in the match
+6.	stage – Stage of the tournament
+7.	toss_winner – Team that won the toss
+8.	toss_decision – Decision made after the toss (bat or bowl)
+9.	match_result – Result status of the match (completed, tie, etc.)
+10.	match_winner – Team that won the match
+11.	player_of_the_match – Awarded best player of the match
+12.	top_scorer – Highest run-scorer in the match
+13.	best_bowling – Player with the best bowling performance
+14.	best_bowling_figure – Bowling stats (e.g., 3–29)
 
 Measures:
 From deliveries.csv:
-•	runs_of_bat – Runs scored from the bat
-•	extras – Extra runs (wides, no-balls, byes, etc.)
-•	wide – Wide ball indicator
-•	legbyes – Leg byes scored
-•	byes – Byes scored
-•	noballs – No-balls bowled
+1.	runs_of_bat – Runs scored from the bat
+2.	extras – Extra runs (wides, no-balls, byes, etc.)
+3.	wide – Wide ball indicator
+4.	legbyes – Leg byes scored
+5.	byes – Byes scored
+6.	noballs – No-balls bowled
 From matches.csv:
-•	first_ings_score – Total score in first innings
-•	first_ings_wkts – Wickets lost in first innings
-•	second_ings_score – Total score in second innings
-•	second_ings_wkts – Wickets lost in second innings
-•	wb_runs – Winning margin by runs
-•	wb_wickets – Winning margin by wickets
-•	balls_left – Balls remaining at match end (chasing side)
+1.	first_ings_score – Total score in first innings
+2.	first_ings_wkts – Wickets lost in first innings
+3.	second_ings_score – Total score in second innings
+4.	second_ings_wkts – Wickets lost in second innings
+5.	wb_runs – Winning margin by runs
+6.	wb_wickets – Winning margin by wickets
+7.	balls_left – Balls remaining at match end (chasing side)
 
 Problem Statements:
 1. Summarize overall tournament stats
