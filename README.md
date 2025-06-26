@@ -80,4 +80,32 @@ Problem Statements:
 20. Evaluate team-wide performance metrics like run rate, economy, dot ball %, and wickets.
 21. Understand over-wise strike rate fluctuations from overs 17 to 20.
 22. Explore wicket-to-economy relationships through scatter analysis.
+
+Insights:
+
+1.Royal Challengers Bangalore (RCB) emerged as the IPL 2025 champions.
+2.A total of 25,196 runs were scored and 872 wickets were taken throughout the season.
+3.Sai Sudharsan won the Orange Cap with 759 runs, making him the highest run-scorer of the season.
+4.Abhishek Sharma posted the highest individual score of 127 in a single match.
+5.Prasidh Krishna claimed the Purple Cap with 26 wickets, leading the bowling charts.
+6.Shreyas Iyer and Krunal Pandya both earned the most Player of the Match awards (3 each), showcasing their all-round impact.
+7.Winning toss didn’t guarantee match success, despite often choosing to bowl.
+8.Win percentages vary significantly across venues, with some stadiums proving to be more favorable than others.
+9.Naman Dhir has the highest strike rate of 233.33 in Power Play, making him the most explosive batter in the power play.
+10.Jaiswal leads the power hitting chart with 22 sixes in Power Play itself, showing his dominance at the top.
+11.The average strike rate during powerplay is 146.0, showing a healthy scoring rate.Highest peak appears around overs 3 to 5 .
+12.Trent Boult leads with 8 wickets in Power Play, proving his impact with the new ball.
+13.Bhuvneshwar Kumar follows with 7 wickets, maintaining his reputation as a power play specialist.
+14.39.09% dot ball rate in Power Play indicates effective bowling and pressure created early on.
+15.Wickets vs. Economy Plot shows Power Play bowlers who took wickets generally maintained lower economy rates.
+16.Shepherd dominates with a strike rate of 300, the highest in death overs.
+17.Pooran smashed the most sixes — 40 in this phase, making him the cleanest striker late in the innings.
+18.The average strike rate peak is observed in overs 18 and 19.
+19.Pathirana is the top performer in dot balls with 28 dot balls, an exceptional stat in the death overs.
+20.Most bowlers with 1 wicket have economy ranging from 8 to 12, but a few outliers go beyond 15—indicating expensive but wicket-taking spells.
+
+Social Media Post:
+LinkedIn Post 
+Link: https://www.linkedin.com/posts/nehal-jain-1694b031b_dataanalytics-tableau-sportsanalytics-activity-7340676023220391938-iOWI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFENm-EBx7j_8sBOAmJ57S3iCgyufl4zXz0 
+
  
